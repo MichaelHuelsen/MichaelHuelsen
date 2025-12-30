@@ -1,0 +1,93 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/a7547d78e0bdd2acd3b478d0f86e6aaa6fb9ef41\"><strong>a</strong>7547d78e0bdd2acd3b478d0f86e6aaa6fb9ef41</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"updated\".",
+    "body": "My favorite commit message words are:\n\n1. updated (used 31 times)\n2. update (used 8 times)\n3. commit (used 6 times)\n4. initial (used 5 times)\n5. version (used 5 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/e5e1193933931cec8ff8dc19295ca109ed085bcd\">e5e1193</a>: fixces\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/070701d95a6e8849389308a8c9445c47f4b04652\">070701d</a>: Fix issue in angular.json",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/8fd3f7cf520df7f5761299956a7c902c05dbb9e6\">8fd3f7c</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/8fd3f7cf520df7f5761299956a7c902c05dbb9e6\">8fd3f7c</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "rebel-coder",
+    "tier": 0,
+    "desc": "I am a rebel coder.",
+    "body": "I do not use words like \"thanks\" and \"please\" in my issues.\nStraight to the point!",
+    "image": "https://my-badges.github.io/my-badges/rebel-coder.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de\">MichaelHuelsen/michael-huelsen.de</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/incuvolve/ivBlock/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/f28e62a0905809522ade83c95c6539ea2733d4ca\">f28e62a</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/dc7de66b5290da2a141ce3e371468a521468b502\">dc7de66</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/e470f401f7a8b3952c820046fc5b7e987e06d494\">e470f40</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/8cc2d32fea5d9449d64aac29e9f3c709a1ebbd9e\">8cc2d32</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/c1dfed7a476e47b8bc8c4e13b03f44636c7b476b\">c1dfed7</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/38adddc8528186a55ec0c548f33d74ce6ccc7a1c\">38adddc</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
