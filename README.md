@@ -1,21 +1,28 @@
-## Hi there 👋
+## Hi, my name is Micha 👋
 
-this is my personal GitHub page.
+💼 IT Consultant & Manager | :seedling: Founder |  💻 Software Developer | 🧪 Chemist
 
-<!--
-**MichaelHuelsen/MichaelHuelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bridging IT leadership, software development, and scientific thinking.
 
-Here are some ideas to get you started:
+## 💡 Interests
+- Learning by building, sharing, and iterating
+- Open-source tools and collaborative development
+- Programming languages, frameworks, and methodologies
+- Science (chemistry, physics, mathematics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Job Focus
+- IT management
+- technical leadership
+- Software development and automation
+- Applied science and data-driven problem solving
+
+## 📂 Projects & Open Source
+- ivBlock (Safari Extension - Website Blocker) - http://github.com/incuvolve/ivBlock
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/meet-michael-huelsen
+
+## :octocat: GitHub Badges
 
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
