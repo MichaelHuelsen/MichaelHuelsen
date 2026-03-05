@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"updated\".",
-    "body": "My favorite commit message words are:\n\n1. updated (used 35 times)\n2. update (used 9 times)\n3. commit (used 6 times)\n4. initial (used 5 times)\n5. version (used 5 times)",
+    "body": "My favorite commit message words are:\n\n1. updated (used 36 times)\n2. update (used 9 times)\n3. commit (used 6 times)\n4. initial (used 5 times)\n5. version (used 5 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/f28e62a0905809522ade83c95c6539ea2733d4ca\">f28e62a</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/dc7de66b5290da2a141ce3e371468a521468b502\">dc7de66</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/e470f401f7a8b3952c820046fc5b7e987e06d494\">e470f40</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/8cc2d32fea5d9449d64aac29e9f3c709a1ebbd9e\">8cc2d32</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/c1dfed7a476e47b8bc8c4e13b03f44636c7b476b\">c1dfed7</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/38adddc8528186a55ec0c548f33d74ce6ccc7a1c\">38adddc</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/d9b82797b7ba62bb76ac6f40c5f540541e0d5f7a\">d9b8279</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/f28e62a0905809522ade83c95c6539ea2733d4ca\">f28e62a</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/dc7de66b5290da2a141ce3e371468a521468b502\">dc7de66</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/e470f401f7a8b3952c820046fc5b7e987e06d494\">e470f40</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/8cc2d32fea5d9449d64aac29e9f3c709a1ebbd9e\">8cc2d32</a>\n- <a href=\"https://github.com/MichaelHuelsen/michael-huelsen.de/commit/c1dfed7a476e47b8bc8c4e13b03f44636c7b476b\">c1dfed7</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
