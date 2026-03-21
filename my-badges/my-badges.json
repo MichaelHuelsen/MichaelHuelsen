@@ -56,13 +56,6 @@
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
     "id": "self-star",
     "tier": 0,
     "desc": "I've starred 1 my own repositories.",
@@ -89,5 +82,12 @@
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/incuvolve/ivBlock/issues/87\">#87</a>: UI Review input fields and dropdown controls",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]

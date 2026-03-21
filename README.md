@@ -33,9 +33,9 @@ Bridging IT leadership, software development, and scientific thinking.
 <a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
 <a href="my-badges/mass-delete-commit.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
 <a href="my-badges/mass-delete-commit-10k.md"><img src="https://my-badges.github.io/my-badges/mass-delete-commit-10k.png" alt="When I delete code, I delete a lot." title="When I delete code, I delete a lot." width="64"></a>
-<a href="my-badges/public-keys-2.md"><img src="https://my-badges.github.io/my-badges/public-keys-2.png" alt="I have two public keys" title="I have two public keys" width="64"></a>
 <a href="my-badges/self-star.md"><img src="https://my-badges.github.io/my-badges/self-star.png" alt="I&apos;ve starred 1 my own repositories." title="I&apos;ve starred 1 my own repositories." width="64"></a>
 <a href="my-badges/the-ultimate-question.md"><img src="https://my-badges.github.io/my-badges/the-ultimate-question.png" alt="I found the answer to the ultimate question of life, the universe, and everything!" title="I found the answer to the ultimate question of life, the universe, and everything!" width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <a href="my-badges/polite-coder.md"><img src="https://my-badges.github.io/my-badges/polite-coder.png" alt="I am a polite coder." title="I am a polite coder." width="64"></a>
+<a href="my-badges/public-keys-1.md"><img src="https://my-badges.github.io/my-badges/public-keys-1.png" alt="I have one public key" title="I have one public key" width="64"></a>
 <!-- my-badges end -->
